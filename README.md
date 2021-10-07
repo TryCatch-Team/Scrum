@@ -1,4 +1,4 @@
-## Scrum Backedn by TryCatch Team
+## Scrum Backend by TryCatch Team
 
 This is a hackathon project by TryCatch Team for Devsnest backend hackathon.
 Work in progress
